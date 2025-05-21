@@ -10,7 +10,7 @@
 
   <img align="right" height="190" src="https://i.pinimg.com/originals/00/75/ab/0075abd91b7b82a30470c81fff49ce4d.gif">
 
-Estudante de Redes no SENAI, com foco em Cibersegurança Ofensiva. Buscando 
+Estudante de Redes de Computadores no SENAI, focado em Cibersegurança Ofensiva. Buscando 
 atuar como Pentester ou Ethical Hacker. Conhecimento em AWS, Azure, gerenciamento de redes 
 e monitoramento NOC com Zabbix e Grafana.
 
@@ -18,7 +18,7 @@ Entre em contato comigo!
 
 <br><br>
 
-## "Just Keep Running". — Maine, Cyberpunk Edgerunners ##
+## "Apenas continue correndo". — Maine, Cyberpunk Edgerunners ##
 
 ---
 
