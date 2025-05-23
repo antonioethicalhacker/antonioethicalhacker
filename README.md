@@ -60,6 +60,9 @@ Entre em contato comigo!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antônio-cerdeira-983580332"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
-
+</p>
   <h4 align="center">
     Agradeço sua presença por aqui. Até breve!
+  </h4>
+  
+  ![](https://komarev.com/ghpvc/?username=antonioethicalhacker&color=4B0082)
