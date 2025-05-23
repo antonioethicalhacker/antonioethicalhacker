@@ -36,3 +36,30 @@ Entre em contato comigo!
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
 </p>
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/%20CCNA_ITN-t?style=for-the-badge&logo=cisco&logoColor=blue&labelColor=white&color=black) | CCNA: Introduction to Networks |
+| ![CCNA SRWE](https://img.shields.io/badge/CCNA_SRWE-t?style=for-the-badge&logo=cisco&logoColor=blue&labelColor=white&color=black) | CCNA: Switching, Routing, and Wireless Essentials |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_CF-t?style=for-the-badge&logo=amazonwebservices&logoColor=black&labelColor=orange&color=black) | AWS Academy Cloud Foundations | 
+
+## Projetos 🎯
+
+- Projeto de monitoramento NOC (ZabWatch) com servidores e virtualizadores.
+- Projeto de infraestrutura em nuvem AWS (Aether Infraestructures) para site de varejo.
+- Projeto de infraesturura em nuvem Azure (InfraBlueTech) com solução de failover.
+- Projeto IOT (Smart Home Sensations) para pessoas no espectro autista.
+
+<p align="center">
+  <img src="[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=antonioethicalhacker)](https://git.io/streak-stats)">
+</p>
+
+## Conecte-se comigo! 
+
+<p align="center">
+  <a href="www.linkedin.com/in/antônio-cerdeira-983580332"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+
+  <h4 align="center">
+    Obrigado por visitar!
